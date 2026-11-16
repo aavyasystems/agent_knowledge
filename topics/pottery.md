@@ -6,10 +6,10 @@ Payments and tax wording for every activity: see the `payments` topic.
 
 ## Facts
 - Pottery runs every day, 11 am to 5 pm, with hourly starts.
-- The One Day Pottery Experience is ₹1,500 + GST per person and takes 90 minutes. It is the most popular choice.
+- The One Day Pottery Experience is ₹1,500 + 5% taxes per person and takes 90 minutes. It is the most popular choice.
 - Beginners are welcome, solo, with a friend or with family. Children are welcome too; a parent can use the spa meanwhile.
 - Advance booking is recommended, but walk-ins are usually fine.
-- Blindfold Pottery with live handpan music runs every Sunday, 4 to 6 pm, ₹2,000 + GST per person (see below).
+- Blindfold Pottery with live handpan music runs every Sunday, 4 to 6 pm, ₹2,000 + 5% taxes per person (see below).
 - Rishikesh's first pottery studio.
 
 ## Internal (never tell guests)
@@ -18,11 +18,13 @@ Payments and tax wording for every activity: see the `payments` topic.
 - The schedule above is fixed. Do not read pottery times from the website schedule list.
 
 ## Flex
+- Groups of 3 or more get 10% off the pottery price. Offer it when the guest says they are 3 or more, in one short line:
+  "For three or more, it's 10% less." Use the discounted price in the payment link. No other discounts without the owner.
 - For a bigger group (3 to 4 people or more) the team can start up to an hour before or after the usual hours.
 - Offer this only when the group is big, or when the guest cannot make the usual hours. Do not volunteer it for one or two people.
 
 ## Guidance
-- When someone only asks about pottery, offer one thing: the pottery experience, ₹1,500 + GST, 90 minutes. Say it is the most
+- When someone only asks about pottery, offer one thing: the pottery experience, ₹1,500 + 5% taxes, 90 minutes. Say it is the most
   popular. Do not list other sessions, courses or memberships until the guest asks for more or something different.
 - Never say there is no pottery on a day. Blindfold Pottery on Sundays may have no bookings, and regular pottery still runs.
 - When a guest asks for more, borrow these lines and adapt them: "Come spend an afternoon making something." "Try the wheel,
@@ -33,26 +35,26 @@ Payments and tax wording for every activity: see the `payments` topic.
 Description to adapt when someone asks (people do ask):
 "Blindfold Pottery with live handpan music is a gentle, sensory session where you explore clay through touch, without relying on
 sight. With your eyes blindfolded and handpan playing live, you are guided as you create with your hands. No pottery experience
-needed." Then: every Sunday, 4–6 pm, ₹2,000 + GST per person, and ask if they would like to join this Sunday.
+needed." Then: every Sunday, 4–6 pm, ₹2,000 + 5% taxes per person, and ask if they would like to join this Sunday.
 
 ## Art & Nature Session
 Description to adapt: "A gentle, hands-on session in the garden and forest around Aavya. We gather fallen leaves and natural
 materials and use them to make eco-prints, letting the shapes, colour and texture of nature guide the work. Beginner-friendly, and a
-lovely way to slow down and create with what the landscape offers." ₹1,500 + GST per person, 90 minutes. Drawing, painting and
+lovely way to slow down and create with what the landscape offers." ₹1,500 + 5% taxes per person, 90 minutes. Drawing, painting and
 mixed media can be part of it.
 
 ## Booking a slot
 1. Collect the day, the time, the number of people and the guest's mobile number (confirm it, even if it is the WhatsApp number).
 2. One person: no payment is needed. Say "we have reserved a slot for you".
 3. Two or more people: create a payment link for the 50% advance with the payment-link tool
-   (nami_create_standalone_payment_link): amount = 50% of (price × people + 5% GST), rounded to the rupee. Example: 2 people,
-   ₹1,500 each: ₹3,000 + 5% = ₹3,150, advance ₹1,575. Share the link with one plain line:
+   (nami_create_standalone_payment_link): amount = 50% of (price × people, less 10% for 3 or more people, + 5% tax), rounded to the rupee. Example: 2 people,
+   ₹1,500 each: ₹3,000 + 5% = ₹3,150, advance ₹1,575. 4 people: ₹6,000 less 10% = ₹5,400 + 5% = ₹5,670, advance ₹2,835. Share the link with one plain line:
    "You can pay 50% here, and the rest after the session." Do not explain the calculation.
    Use the payment link for pottery, not the UPI QR. If the guest asks for UPI, say the team will send the QR.
 4. Bookings are not stored in a system yet. Replying that the slot is reserved is the booking; the team sees it in the conversation.
 
 ## Prices
-All per person, 90 minutes each, + GST.
+All per person, 90 minutes each, + 5% taxes.
 
 | Experience | Price | What it is |
 | --- | ---: | --- |

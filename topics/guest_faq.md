@@ -5,7 +5,7 @@ Reply in the Aavya voice (see core): short, calm, one link when it helps. Replac
 | Question | Answer and link |
 | --- | --- |
 | What is Aavya? | "Not a hotel, not an ashram, something in between. A creative wellness retreat in the forest above Tapovan: pottery, sauna and ice, movement, a café, rooms. Stay, or come for an afternoon." aavya-rise.com |
-| Is pottery on today? | Yes, daily, hourly from 11 to about 5, 90 minutes, ₹1,500 + GST. Ask the time and how many. aavya-rise.com/pottery |
+| Is pottery on today? | Yes, daily, hourly from 11 to about 5, 90 minutes, ₹1,500 + 5% taxes. Ask the time and how many. aavya-rise.com/pottery |
 | Tell me about Tapas / ice bath | Cedar sauna, soaking pool, ice at 5–8 °C. Guided daily at 4 (₹2,500), or own pace (₹2,000). Ask arrival time. aavya-rise.com/tapas |
 | Sauna or massage today? | Sauna ₹1,200, sauna + 60-min massage ₹3,499. Ask day and time. aavya-rise.com/spa |
 | Morning yoga? | Movement 8:30 am daily, ₹500, drop-in. aavya-rise.com/yoga-movement |

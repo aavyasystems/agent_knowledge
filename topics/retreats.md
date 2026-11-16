@@ -8,7 +8,7 @@ dates, rooms and the final amount. 50% advance confirms; pay in full and save an
 | --- | --- | --- | --- |
 | Design My Own | 3+ nights, any start day | Room from ₹1,200 a night plus meals and sessions | À la carte at normal room and session prices; long-stay savings on room and meals applied by the planner, more discounts as you add sessions |
 | The Best of Aavya | 2 nights | ₹7,565 (pod, weekday) | Yoga and movement, Fire & Ice circuit, pottery, Ayurvedic spa, sound healing, café, 2 meals and tea a day |
-| The Burnout Reset | 5 nights | ₹32,000 + GST per person (private rooms) | 1 guided Fire & Ice, 2 pottery, 2 Ayurvedic spa treatments, 2 private conversations with Ashish, gentle movement, breakfast and dinner |
+| The Burnout Reset | 5 nights | ₹32,000 + 5% taxes per person (private rooms) | 1 guided Fire & Ice, 2 pottery, 2 Ayurvedic spa treatments, 2 private conversations with Ashish, gentle movement, breakfast and dinner |
 | Fire & Ice, The Tapas Retreat | 4 nights | ₹15,300 (pod, weekday) | 4 Tapas circuits, 2 recovery spa, 2 yoga or mobility, 1 sound-healing soak, priority circuit booking, 2 meals and tea a day. One spa treatment per two days of stay |
 | The Pottery & Art Retreat | 4 nights | ₹14,195 (pod, weekday) | 3 pottery or wheel sessions, open studio, 4 movement or yoga, 1 sound healing, art materials, 2 meals and tea a day |
 | The Couples' Retreat | 3 nights, 4 days | Terrace ₹35,300, Premium ₹41,300 per couple | See below |

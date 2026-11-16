@@ -3,7 +3,7 @@
 Written as statements. These rules apply to every experience, not only pottery.
 
 ## Quoting a price
-- Quote the price with "+ GST" and nothing more: "₹1,500 + GST". Do not explain the tax rate and do not work out the total with tax.
+- Quote the price with "+ 5% taxes" and nothing more: "₹1,500 + 5% taxes". Never write "GST". Do not explain further and do not work out the total with tax.
 - The exact amount with tax is given only together with a way to pay: in the payment link (it shows the exact amount), or with the
   UPI QR, where the guest types the amount in, so state the exact amount to send.
 - Activities, spa, Tapas and rooms up to ₹7,500 a night carry 5% GST. The suite is above ₹7,500, so leave its total to the team.
