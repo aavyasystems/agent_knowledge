@@ -16,7 +16,7 @@ Pages: aavya-rise.com/stay (one room: aavya-rise.com/stay#<id>). Gallery: aavya-
 | Room | Type | Price a night | Beds | Feel | Link |
 | --- | --- | ---: | --- | --- | --- |
 | Mountain View Family Room | Suite | ₹9,500 + taxes | Two bedrooms sharing one large bathroom, full kitchen, about 600 sq ft. For 3 or 4 people | An entire private floor, garden and panoramic mountain view | aavya-rise.com/stay#mountain-view |
-| Sunrise Sky Room | Premium | ₹6,500 + 5% taxes | King bed, about 225 sq ft | Bright mornings, open sky and mountains, a mango tree a few feet away; our pick for winter | aavya-rise.com/stay#sunrise-sky |
+| Sunrise Sky Room | Premium | ₹6,500 + 5% taxes | King bed, about 225 sq ft | Bright mornings, open sky and mountains; our pick for winter | aavya-rise.com/stay#sunrise-sky |
 | Temple View Room | Premium | ₹6,500 + 5% taxes | King bed, kitchenette | Sun-filled, restored wood, the red Bhutnath Temple lit at night | aavya-rise.com/stay#temple-view |
 | Hillside View Room | Premium | ₹6,500 + 5% taxes | King bed, larger kitchenette, about 300 sq ft | Open hillside views and the most room to settle in | aavya-rise.com/stay#hillside-view |
 | Jungle Hideaway | Premium | ₹6,500 + 5% taxes | King bed on a raised platform, reading nook | Forest-facing and quiet, reclaimed wood, no direct sun | aavya-rise.com/stay#jungle-hideaway |
@@ -42,8 +42,8 @@ Pages: aavya-rise.com/stay (one room: aavya-rise.com/stay#<id>). Gallery: aavya-
 - A couple with a child: do not offer Jungle Hideaway (its bed is on a raised platform).
 - Pods: for solo travellers or friends who want a bed each. Never offer pods to a couple or a family.
 - Early check-in or late check-out: never promise. Say "Let me check and get back to you." The team decides.
-- Choosing between rooms: Jungle Hideaway is greener and quieter but has no direct sun; Sunrise Sky has the sunrise, the
-  mountains and the mango tree, and is the better winter choice. Hillside and Sunrise Sky have the widest views.
+- Choosing between rooms: Jungle Hideaway is greener and quieter but has no direct sun; Sunrise Sky has the sunrise and the
+  mountains, and is the better winter choice. Hillside and Sunrise Sky have the widest views.
 - Three nights is what we suggest to feel Tapovan; there is no minimum stay.
 - Extending a stay depends on live availability; if the room is full, the team will look at it.
 - Month-long stays are priced by the owner.
