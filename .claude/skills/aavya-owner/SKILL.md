@@ -79,7 +79,7 @@ Example (made up): a guest asks if someone can take a WhatsApp call with her par
 
 ## Common requests
 - **Pending / who needs a reply**: call `list_attention_conversations` once. Pending = the latest message is the guest's, or we
-  still owe something, or `flag_reason` starts with "Follow up:". Leave out threads where our message is latest and nothing is open.
+  still owe something, or `flag_reason` starts with "Follow up:". Leave out threads where our message is latest and nothing is open, except when that message is exactly "Let me check that and get back to you shortly.": that is the AI handing the chat to the team, so it is still pending.
   Per guest: **saved_name** · waiting time; what they want in at most 12 words with every date, time, activity and party size;
   `Next:` in a few words; the wa.me link. Read a thread yourself when its assessment is missing or not current (at most five).
   The count must equal the number of guests listed. End by offering to draft the first reply.
