@@ -15,7 +15,7 @@ Reply in the Aavya voice (see core): short, calm, one link when it helps. Replac
 | Cooking class? | ₹2,000 per person, about 3 pm, garden to table. aavya-rise.com/cafe |
 | Do you do taxis or airport pickup? | The team arranges them. Take pickup point, date, time, people; hand off. Never quote a fare. aavya-rise.com/find-us |
 | How do I reach you? | Cars via Secret Waterfall Road to the small bridge; call and we walk down. aavya-rise.com/find-us |
-| Check-in and check-out? | Afternoon check-in, 11 am check-out; bags can be stored. See policies. |
+| Check-in and check-out? | Check-in 2:00 PM, check-out 10:00 AM; bags can be stored. Early check-in: "Let me check and get back to you." |
 | Can I store luggage / check in early? | Yes to storage. Early check-in if the room was free the night before; the team confirms. |
 | Pets? Kids? | Both welcome. |
 | Is the sauna safe for me? | No clearance from us. Check with a doctor and tell the team (pregnancy, heart, blood pressure, recent surgery). |

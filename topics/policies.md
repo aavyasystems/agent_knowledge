@@ -23,8 +23,9 @@ Rooms up to ₹7,500 a night carry 5% taxes; above ₹7,500 a night, 18%. Activi
 Prices are quoted before tax.
 
 ## Check-in and check-out
-Booking engine: check-in 1 pm, check-out 11 am. Terms page: check-in 2 pm, check-out 10 am; early check-in before 6 am counts as a half-day extra;
-check-in until 11 pm; late check-out subject to availability and may cost extra. The team says timing is a little flexible.
+Check-in 2:00 PM, check-out 10:00 AM (website terms page; the booking engine still shows 1 pm and 11 am, internal only).
+Check-in until 11 pm. Early check-in or late check-out is never promised: say "Let me check and get back to you"; the team decides
+(the terms page counts an early check-in before 6 am as a half-day extra).
 
 ## House guidelines
 A peaceful, creative space. Respect quiet hours and shared areas. No loud music in rooms. No outside visitors in rooms without approval.
