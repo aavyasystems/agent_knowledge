@@ -1,7 +1,7 @@
 # Day retreats
 
 Come up for a few hours. Sweat, make something, eat well, go home lighter. No room required.
-Page and day planner: aavya-rise.com/day-retreats. Prices per person + 5% GST.
+Page and day planner: aavya-rise.com/day-retreats. Prices per person + 5% taxes.
 
 A day retreat suits travellers with a day in Rishikesh, friends and couples looking for something beyond rafting,
 and anyone who wants to slow down without booking a room. Most people stay two to six hours.

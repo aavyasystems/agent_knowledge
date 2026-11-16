@@ -18,7 +18,7 @@ that matches what the guest is booking, and let the team confirm):
   Golden Turmeric Milk ₹180. Cold: Ceremonial Cacao ₹220 (lovely after Tapas), Matcha ₹220–240, juices ₹120–220, water ₹40.
   Plant milks +₹60.
 - Desserts ₹180–320: Sizzling Brownie, Halwa or Kheer, Affogato.
-Taxes on café bills follow applicable GST. Outside food in common areas is discouraged.
+Taxes on café bills follow applicable taxes. Outside food in common areas is discouraged.
 
 Cooking class: cook classic Indian and Ayurvedic dishes, pluck ingredients from the kitchen garden, then feast together.
 Usually about 3 pm, about three hours, ₹2,000 per person + 5% taxes, led by Shivani. Groups need the date confirmed and a 50% advance.

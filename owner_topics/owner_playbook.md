@@ -9,7 +9,7 @@ checked against aavya-rise.com.
   ₹1,500 "indicative" on the stay page, and Nami live prices differ again. Quote the owner's numbers.
 - Before creating a Nami booking or payment link, tell the owner both the Nami amount and the fixed price and ask which to bill.
   The voucher "Pay now" button can show a different amount; the guest is told which amount to pay.
-- Suite GST: ₹9,500 a night is above the ₹7,500 threshold, so the terms page implies 18% GST. Confirm the owner's intent before quoting a tax figure.
+- Suite taxes: ₹9,500 a night is above the ₹7,500 threshold, so the terms page implies 18% taxes. Confirm the owner's intent before quoting a tax figure.
 
 ## 2. How the team replies
 1. First name, answer, one next question (date, people, time, nights).
@@ -27,7 +27,7 @@ experiences is the owner's call. Staff once told staying guests 20% off sauna an
 Until the live offer design in COMMERCIAL_OFFER_DESIGN.md exists, nothing is automatic.
 
 ## 4. Payments
-- Groups: 50% advance holds the date. Total = price × people less any approved discount, + GST.
+- Groups: 50% advance holds the date. Total = price × people less any approved discount, + 5% taxes.
 - Retreats and rooms: 50% advance, balance on arrival or check-in. Day retreats: 100% advance.
 - Routes: Nami payment link (expires in 15 minutes, resend on request), UPI QR page, card link for international guests, Wise to the owner's UPI ID. No PayPal.
 - Never put UPI IDs or account names in knowledge or guest replies. Confirm receipt only after a payment tool or the owner shows it.
@@ -46,4 +46,4 @@ so read the thread before assuming a guest was served.
 
 ## 7. Open questions for the owner (full list with defaults: whatsapp_integration/OPEN_QUESTIONS.md)
 Taxi fares and provider; whether Mountain Terrace has twin or king; Sunday movement; the two-week Tapas membership versus the published passes; whether the Blindfold session is weekly;
-which long-stay discount figure applies; who decides cancellation exceptions; sauna gender and clothing rules; stairs and accessibility per room; suite GST.
+which long-stay discount figure applies; who decides cancellation exceptions; sauna gender and clothing rules; stairs and accessibility per room; suite taxes.

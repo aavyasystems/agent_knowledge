@@ -19,7 +19,7 @@ Confirmed with 100% advance. Cancel 24 hours or more before: 75% refund. Under 2
 - A voucher page's "Pay now" button can show a different amount from the agreed one; the team says which to pay.
 
 ## Tax
-Rooms up to ₹7,500 a night carry 5% GST; above ₹7,500 a night, 18%. Activities, spa and Tapas: 5% GST. Café bills follow applicable norms.
+Rooms up to ₹7,500 a night carry 5% taxes; above ₹7,500 a night, 18%. Activities, spa and Tapas: 5% taxes. Café bills follow applicable norms.
 Prices are quoted before tax.
 
 ## Check-in and check-out

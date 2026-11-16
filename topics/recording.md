@@ -3,7 +3,7 @@
 A semi-professional, acoustically treated audio and video studio in Upper Tapovan. Not fully soundproofed, but quiet and
 good enough for high-quality educational and creative recordings. Made for yoga teachers, meditation guides, musicians,
 mantra artists, healers, coaches, podcasters and retreat leaders. Page: aavya-rise.com/recording-studio.
-Prices + 5% GST.
+Prices + 5% taxes.
 
 | Format | Price |
 | --- | ---: |

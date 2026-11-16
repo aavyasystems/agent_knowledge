@@ -68,7 +68,7 @@ bed, and one team reply said king double. Confirm with the team before describin
 
 - Owner-set FIXED prices live in the core (rooms: suite ₹9,500, premium
   ₹6,500, terrace ₹4,000, sleep pod ₹1,200 per night; pottery ₹1,500; morning movement ₹500; Tapas circuit,
-  spa and cooking prices). All are plus 5% GST. They override live nightly room prices, but
+  spa and cooking prices). All are plus 5% taxes. They override live nightly room prices, but
   availability is always checked live.
 - Current prices and tax treatment vary by date, booking channel, party size,
   and meal plan. Historical or indicative website prices are not current quotes, except the owner-set fixed prices in core.

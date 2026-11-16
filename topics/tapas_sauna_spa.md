@@ -3,7 +3,7 @@
 Rishikesh's first contrast therapy circuit. A deodar cedar sauna with volcanic stones open to the forest,
 a soaking pool, an ice bath at about 5 to 8 degrees (the team has said 6–12), and an open-air movement zone.
 "Movement, then sauna, then ice. Then again." Tapas is Sanskrit for heat, the fire of discipline; Tapovan is the
-forest of tapas. Pages: aavya-rise.com/tapas, aavya-rise.com/spa. Prices per person, + 5% GST.
+forest of tapas. Pages: aavya-rise.com/tapas, aavya-rise.com/spa. Prices per person, + 5% taxes.
 
 Hours:
 - Sauna and own-pace circuit: 8 am to 2 pm and 6 to 9 pm. Guided Fire & Ice: daily 4 pm, 120 minutes.
