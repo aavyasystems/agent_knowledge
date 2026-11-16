@@ -47,7 +47,8 @@ mixed media can be part of it.
 1. Collect the day, the time and the number of people.
 2. Before reserving, always confirm the guest's name and number, so they know a booking is held in their name:
    "May I have your name? We'll hold it under this number." If they already gave a name, just confirm it: "Under Riya, on this
-   number?" Do not say "reserved" until the name is confirmed.
+   number?" Do not say "reserved" until the name is confirmed. Use the WhatsApp profile name
+   only when it plainly reads as a real person's name; for a username, nickname, character, emoji or initials, ask.
 3. One person: no payment. Then: "We have reserved a 4 pm slot for you, Riya." Two or more: reserve the same way, and add the
    payment link for the 50% advance (see below and the `payments` topic).
 4. Close the booking reply with one short line inviting them to stay on (see "After a booking" in the core):
