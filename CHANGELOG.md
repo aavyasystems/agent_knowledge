@@ -11,3 +11,6 @@
 
 ## 2026-11-16 (location)
 - Location questions get the maps pin and aavya-rise.com/find-us.
+
+## 2026-11-16 (pottery 2)
+- Pottery internal notes, Blindfold and Art & Nature descriptions; payments topic for all activities.

@@ -6,4 +6,4 @@
 - Ramana, sound healer and Reiki Master with a clinical psychology background. Sound healing, Reiki and Reiki training.
 - Nikki, Yin Yoga facilitator.
 - Abha, digital experience and guest communication. Saloni, visual designer. Rohit, property manager.
-Share a name only when it helps a guest know who will lead a session. Do not give out personal phone numbers; the team shares contact details.
+Internal: do not name staff to guests unless the team asks you to. Do not give out personal phone numbers; the team shares contact details.
