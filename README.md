@@ -12,4 +12,11 @@ Source of truth for what the owner and guest WhatsApp agents know about Aavya.
 3. Open a pull request or commit to `main`; every change is reviewable and reversible.
 4. Deploy: copy into `aavya-agent/src/aavya_agent/knowledge/` and run `./scripts/install.sh`.
 
+## Use as the owner agent in Claude Code
+1. `git clone https://github.com/aavyasystems/agent_knowledge.git && cd agent_knowledge && claude`
+2. Approve the `aavya` MCP server when asked, then `/mcp` → `aavya` → Authenticate, and enter the team access secret on the
+   systems.aavya-rise.com page.
+3. Ask anything: "what's pending", "who is staying tonight", "reply to Celina that the piece is not fired yet".
+The skill `.claude/skills/aavya-owner/SKILL.md` loads automatically. Pull the repo to get knowledge updates.
+
 Never store live Nami prices, availability, bookings or guest data here. This repo must stay private.
