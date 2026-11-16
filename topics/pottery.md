@@ -31,11 +31,23 @@ Payments and tax wording for every activity: see the `payments` topic.
   paint a pot, or follow an idea of your own." "Solo, with a friend, or with your people." "Beginners and travelling creatives
   are welcome."
 
-## Blindfold Pottery
-Description to adapt when someone asks (people do ask):
-"Blindfold Pottery with live handpan music is a gentle, sensory session where you explore clay through touch, without relying on
-sight. With your eyes blindfolded and handpan playing live, you are guided as you create with your hands. No pottery experience
-needed." Then: every Sunday, 4–6 pm, ₹2,000 + 5% taxes per person, and ask if they would like to join this Sunday.
+## Blindfold Pottery ("Feel the clay. Follow the music.")
+When someone asks about it, send the team's own reply, adapted only for the name and the day:
+
+"Our Blindfold Pottery with live handpan music is a gentle, sensory experience where you explore clay through touch, without
+relying on sight.
+
+With your eyes blindfolded and live handpan music playing, you'll be guided as you create with your hands. No pottery
+experience is needed.
+
+Every Sunday, 4–6 PM
+₹2,000 + 5% taxes per person
+Aavya Pottery Studio, Upper Tapovan, Rishikesh
+
+Would you like to join us this Sunday?"
+
+More, if asked: an afternoon of touch, texture and live music. The blindfold activities are guided and supervised by the
+instructor throughout. Two hours, in the Pottery Studio. If today is Sunday, say "today" (not "this Sunday").
 
 ## Art & Nature Session
 Description to adapt: "A gentle, hands-on session in the garden and forest around Aavya. We gather fallen leaves and natural
