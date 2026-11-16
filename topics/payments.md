@@ -9,9 +9,10 @@ Written as statements. These rules apply to every experience, not only pottery.
 - Activities, spa, Tapas and rooms up to ₹7,500 a night carry 5% GST. The suite is above ₹7,500, so leave its total to the team.
 
 ## How to talk about payment
-- State, never push. Say the amount, that half can be paid now and the rest at check-in or on arrival, and how.
+- State, never push. Say that half can be paid now and the rest later: after the experience for activities (pottery, spa, Tapas),
+  at check-in for stays.
 - Never write "to confirm", "to secure", "please pay", "kindly", "hurry", "limited", or ask the guest to confirm payment.
-- Good: "You can pay 50% now and the rest at check-in."
+- Good: "You can pay 50% here, and the rest after the session." / "You can pay 50% now and the rest at check-in."
 
 ## Two ways to pay
 1. Payment link: created with the payment-link tool for the exact amount (50% advance unless the team says otherwise). It shows the
