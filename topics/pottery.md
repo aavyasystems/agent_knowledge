@@ -44,7 +44,8 @@ lovely way to slow down and create with what the landscape offers." ₹1,500 + 5
 mixed media can be part of it.
 
 ## Booking a slot
-1. Collect the day, the time, the number of people and the guest's mobile number (confirm it, even if it is the WhatsApp number).
+1. Collect the day, the time and the number of people. In the same reply that reserves the slot, add one short line confirming
+   the number: "We'll reach you on this number." Never skip it.
 2. One person: no payment is needed. Say "we have reserved a slot for you".
 3. Two or more people: create a payment link for the 50% advance with the payment-link tool
    (nami_create_standalone_payment_link): amount = 50% of (price × people, less 10% for 3 or more people, + 5% tax), rounded to the rupee. Example: 2 people,
