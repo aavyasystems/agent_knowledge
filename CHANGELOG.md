@@ -8,3 +8,6 @@
 
 ## 2026-11-16 (payments)
 - core.md: payment wording rule: state, never push.
+
+## 2026-11-16 (location)
+- Location questions get the maps pin and aavya-rise.com/find-us.

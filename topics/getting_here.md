@@ -25,4 +25,10 @@ Taxis and transfers: arranged by the team on request. No fare, provider or airpo
 Collect pickup point, date, time, passengers and luggage, then hand off. Pickups from Tapovan cafés have been arranged. For a late
 flight after check-out, bags can be stored and a taxi arranged; give the pick-up point (the bridge near Aarcana Café) once the team confirms.
 Guests arriving by bus (for example at Nepali Farm) or auto: ask where they are and hand off so the team can guide them.
-When a guest taps "Get Your Stay Location", send the maps link and the approach note.
+
+## Location links
+- Maps pin: https://maps.app.goo.gl/vxr1yqBnKSW1tu3p8
+- Written directions with photos and a driver's script: https://aavya-rise.com/find-us
+- When a guest asks for the location, the address, "how to reach", or taps "Get Your Stay Location", send both links, the maps pin first and find-us second, each on its own line, with one short line saying the find-us page explains the last stretch.
+- This is the one case where two links in a reply is right. Add the car note only if they are driving: cars stop at the small bridge on Secret Waterfall Road and the team walks down.
+

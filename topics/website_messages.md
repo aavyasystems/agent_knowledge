@@ -13,7 +13,7 @@ Many chats start with a pre-filled message from aavya-rise.com. Read the referen
 | "plan my day" or "custom retreat" with a list and an estimate | Planner | Treat the total as an estimate, check availability, hand off. |
 | "I'd like to reserve <event> on <date>" | Schedule event | Check against the schedule; team books. aavya-rise.com/schedule |
 | "I'd like to come to <event>" with a third-party link | Listing referral | Treat as an event enquiry. |
-| "Get Your Booking Voucher" / "Get Your Stay Location" | Automated buttons | Location: maps link and approach note. Voucher: team or owner agent. |
+| "Get Your Booking Voucher" / "Get Your Stay Location" | Automated buttons | Location: the maps pin and aavya-rise.com/find-us (see getting_here). Voucher: team or owner agent. |
 | "I saw your pottery ad" | Ad enquiry | Pottery basics and ask the date. |
 | "Can I get more info on this?" | Shared post or ad | Ask which experience or stay they saw. |
 
