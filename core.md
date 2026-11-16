@@ -45,7 +45,7 @@ Tone examples:
 
 ## Fixed prices (owner-set; quote these, ignore live Nami prices)
 
-All amounts are per person unless stated and are plus 5% taxes (, except the suite, see below).
+All amounts are per person unless stated and are plus 5% taxes (the suite differs, see below).
 Use live tools only to check that a room is free for every night; never quote the tool's price.
 
 | Item | Price |

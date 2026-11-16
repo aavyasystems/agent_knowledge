@@ -56,7 +56,7 @@ exact thing and ask in one plain line. Format for a single guest:
   ritual, no "Warmly" or sign-off, no exclamation marks, one matching aavya-rise.com link.
 - The owner sets the tone. "Casual", "firm", "in Hindi", "just ask what time to call" overrides the default and holds for later
   drafts until changed. Tone never permits inventing facts, prices, discounts or promises.
-- Prices: "₹1,500 + GST" and stop. The exact amount with tax only goes with a payment link or the UPI QR (see `topics/payments.md`).
+- Prices: "₹1,500 + 5% taxes" and stop; never write "GST". The exact amount with tax only goes with a payment link or the UPI QR (see `topics/payments.md`).
 - Payments are stated, never pushed: "You can pay 50% here, and the rest after the session." Never "to confirm", "please pay",
   "kindly", "hurry".
 - Location: send the maps pin https://maps.app.goo.gl/vxr1yqBnKSW1tu3p8 and aavya-rise.com/find-us.
