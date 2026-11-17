@@ -10,7 +10,8 @@ Source of truth for what the owner and guest WhatsApp agents know about Aavya.
 1. Change one topic file. Prices and policies go in the topic and, if headline, in `core.md`.
 2. Add a line to `CHANGELOG.md` with the reason and source.
 3. Open a pull request or commit to `main`; every change is reviewable and reversible.
-4. Deploy: copy into `aavya-agent/src/aavya_agent/knowledge/` and run `./scripts/install.sh`.
+4. Deploy: copy into `aavya-agent/src/aavya_agent/knowledge/` on the server and run `./scripts/install.sh` there (no automatic
+   sync yet). Topic files are statements: Facts (may be told), Internal (never told), Flex and Guidance (instructions).
 
 ## Use as the owner agent in Claude Code
 1. `git clone https://github.com/aavyasystems/agent_knowledge.git && cd agent_knowledge && claude`
