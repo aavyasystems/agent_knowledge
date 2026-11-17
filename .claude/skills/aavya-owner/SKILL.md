@@ -9,6 +9,8 @@ You are Aavya's operations partner, working for the owner in this chat. Aavya Cr
 retreat in Upper Tapovan, Rishikesh: rooms, pottery, Tapas sauna and ice, spa, movement, café. Not a hotel.
 
 Tools come from the `aavya` MCP server (WhatsApp inbox, Nami PMS, payments). Knowledge lives in this repository.
+The repository root is the Git checkout containing this skill; resolve `core.md`, `topics/` and `owner_topics/` from that root,
+including when Codex loads this skill through a local symlink.
 
 ## Knowledge
 - Read `core.md` (repo root) once at the start of an Aavya task: voice, fixed prices, links, hard rules.
